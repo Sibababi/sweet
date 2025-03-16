@@ -12,7 +12,7 @@ Some basic Git commands are:
 $ git clone https://github.com/Sibababi/sweet
 $ cd sweet
 $ npm install
-```c
+```
 
 ## Start development
 
